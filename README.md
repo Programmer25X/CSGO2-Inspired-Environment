@@ -6,6 +6,10 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 ---- 
 
 ## Features
+- A 3D city environment, which the player can explore.
+- Lighting and a skybox for immersion and visibility.
+- Use of textures, assets and materials to convey a sense of realism.
+
 
 
  
