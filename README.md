@@ -12,7 +12,12 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 - Post-processing effects to create the player's field-of-vision (FOV)
 - Sound effects to further establish a sense of realism.
 
- ----
+----
+
+# Gained Skills
+
+
+----
  
 ## Media
 **Note: This video demonstartes a coursework environment created in Unity. Some assets (models, textures, sounds) were sourced from Unity’s free asset packs, Quixel/Fab, and other third-party libraries available at the time.
