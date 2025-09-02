@@ -14,8 +14,9 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 
 ----
 
-# Gained Skills
-
+## Gained Skills
+- Blender: Utilised 'Image as Planes' to create the different store fronts in the city environment.
+- 
 
 ----
  
