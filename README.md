@@ -9,7 +9,7 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 - A 3D city environment tailored for the FPS genre, which the player can explore.
 - Use of textures, assets and materials to convey a sense of realism.
 - Lighting and a skybox to further enhance immersion and visibility.
-- Post-processing effects to create the player's field-of-vision (FOV)
+- Post-processing effects to create the player's field-of-vision (FOV).
 - Sound effects to further establish a sense of realism.
 
 ----
