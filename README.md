@@ -15,5 +15,5 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
  ----
  
 ## Media
-***Note: This video demonstartes a coursework environment created in Unity.***Some assets (models, textures, sounds) were sourced from Unity’s free asset packs, Quixel/Fab, and other third-party libraries available at the time.
+***Note: This video demonstartes a coursework environment created in Unity.*** Some assets (models, textures, sounds) were sourced from Unity’s free asset packs, Quixel/Fab, and other third-party libraries available at the time.
 These assets are not included in this repository and are shown here for educational and portfolio purposes only.
