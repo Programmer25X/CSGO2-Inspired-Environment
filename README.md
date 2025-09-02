@@ -1,1 +1,1 @@
-*CSGO2 Environment - Game Development Coursework
+# CSGO2 Environment - Game Development Coursework
