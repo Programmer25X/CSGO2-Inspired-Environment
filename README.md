@@ -1,7 +1,7 @@
 # CSGO2 Environment - Game Development (Level 3) Coursework
 
 ## Overview
-As part of my **Game Development (Level 3) course** I was tasked to create a map for *Counter-Strike 2 (CS:GO 2)* using *Unity*. To design my environment I had to conduct research into the FPS games within the competitive scene to better understand how potential players could make use of weapons, cover and elevation effectively in my map. Creating this map allowed me to develop my understanding of *Unity* and how important lighting, elevation and flow is when designing a level.     
+As part of my **Game Development (Level 3) course** I was tasked to create a map for *Counter-Strike 2 (CS:GO 2)* using *Unity*. To design my environment I had to conduct research into the FPS games within the competitive scene to better understand how potential players could make use of weapons, cover and elevation effectively in my map. Creating this map allowed me to develop my understanding of *Unity* and how important lighting, elevation and flow are when designing a level.     
 
 ---- 
 
@@ -24,7 +24,7 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 ----
 
 ## Reflection 
-This was my first large-scaled 3D FPS environment project in *Unity*. Working on this project gave me valuable practical insight into how crucial *gameplay mechanics*, *player audience* and *atmosphere* are when designing and creating a level. Furthermore, when designing and creating the environemt I built more confidence in using *Unity* and *Blender*, whilst also reinforcing my understanding of how important testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as ***The Departed***. 
+This was my first larger-scaled 3D FPS environment project in *Unity*. Working on this project gave me valuable practical insight into how crucial *gameplay mechanics*, *player audience* and *atmosphere* are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using *Unity* and *Blender*, whilst also reinforcing my understanding of how important testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as ***The Departed***. 
 
 ----
  
