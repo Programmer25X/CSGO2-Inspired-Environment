@@ -22,6 +22,11 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 - **Testing & Iteration**: Conducted repeated playtesting and gathered player feedback to refine the flow, pacing and balance the map provides.
 
 ----
+
+## Reflection 
+This was my first large-scaled 3D FPS environment project in *Unity*. Working on this project gave me valuable practical insight into how crucial *gameplay mechanics*, *player audience* and *atmosphere* are when designing and creating a level. Furthermore, when designing and creating the environemt I built more confidence in using *Unity* and *Blender*, whilst also reinforcing my understanding of how important testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as ***The Departed***. 
+
+----
  
 ## Media
 **Note: This video demonstrates a coursework environment created in Unity. Some assets (models, textures, sounds) were sourced from Unity’s free asset packs, Quixel/Fab, and other third-party libraries available at the time.
