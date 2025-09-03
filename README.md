@@ -15,11 +15,11 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 ----
 
 ## Gained Skills
-- **Blender**: Utilised 'Image as Planes' to create the different store fronts in the city environment.
+- **Blender**: Utilised *Image as Planes* to create the different store fronts in the city environment.
 - **Unity**: Built the city environment using prefabs, colliders, post-processing effects, lighting and a skybox.
 - **Level Design**: Conducted research and applied my knowledge, considering cover, elevation changes and sightlines for balanced and entertaining gameplay.
-- **Lighting and Atmosphere**: Experimented with baked, mixed and real-time lighting, as well as using the fog effect and a skybox.
-- **Testing & Iteration**: Repeatedly tested the environment to refine the flow, pacing and balance the map provides.
+- **Lighting and Atmosphere**: Experimented with baked, mixed and real-time lighting, alongside fog and environmental effects.
+- **Testing & Iteration**: Conducted repeated playtesting and gathered player feedback to refine the flow, pacing and balance the map provides.
 
 ----
  
