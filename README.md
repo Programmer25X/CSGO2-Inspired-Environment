@@ -31,7 +31,14 @@ This was my first larger-scaled 3D FPS environment project in *Unity*. Working o
 ## Media 
 
 ### Screenshots
-![City Overview](Media/City Overview.png)
+![City Overview](Media/City%20Overview.png)
+*Overview of the city*
+![Café](Media/Cafe.png)
+*Close-up of the Café and nearby structures*
+![Cover & Elevation](Media/Elevation&Cover.png)
+*Example of elvation, cover and sightlines within the map*
+![Shops](Media/Street%20Shops.png)
+*Close-up of different storefronts*
 
 ### Demo Video
 [Watch the Demo]()
