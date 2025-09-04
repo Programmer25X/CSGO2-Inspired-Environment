@@ -34,7 +34,8 @@ This was my first larger-scaled 3D FPS environment project in *Unity*. Working o
 [Watch the Demo]()
 
 ### Playable Build
-[Download the build here]
+[Download from GitHub Releases]
+[Play / Download on itch.io]
 
 ----
 
