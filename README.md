@@ -41,7 +41,7 @@ This was my first larger-scaled 3D FPS environment project in *Unity*. Working o
 *Close-up of different storefronts.*
 
 ### Demo Video
-[Watch the Demo](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/Video)
+- [Watch the Demo](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/Video)
 
 ### Playable Build
 - [Download build from GitHub Releases](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/v1.0.0)
