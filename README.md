@@ -42,7 +42,7 @@ This was my first larger-scaled 3D FPS environment project in *Unity*. Working o
 ## Usage / Disclaimer
 This repository contains a **video demonstration** and a **playable build** of the CS:GO 2 environment I created in *Unity*.  
 
-- The build is provided for **educational and portfolio purposes only**.  
+- This build is provided for **educational and portfolio purposes only**.  
 - Some assets (models, textures, sounds, images) were sourced from **Unity’s free asset packs, Quixel/Fab, and other third-party libraries** available at the time of development.  
 - These assets are **not included in the repository** and I do not claim ownership of them.  
 - All **level design, layout, integration, and implementation** work showcased in this project was carried out by me as part of my **Game Development (Level 3) coursework**.  
