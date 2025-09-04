@@ -35,7 +35,7 @@ This was my first larger-scaled 3D FPS environment project in *Unity*. Working o
 
 ### Playable Build
 [Download from GitHub Releases](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/v1.0%2C0)
-[Play / Download on itch.io]
+[Play / Download on itch.io]()
 
 ----
 
