@@ -29,7 +29,7 @@ This was my first larger-scaled 3D FPS environment project in *Unity*. Working o
 ----
 
 ## Media 
-[!Watch the Demo]()
+[Watch the Demo]()
 ----
 
 ## Usage / Disclaimer
