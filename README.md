@@ -56,5 +56,5 @@ This repository contains a **video demonstration** and a **playable build** of t
 - Some assets (models, textures, sounds, images) were sourced from **Unity’s free asset packs, Quixel/Fab, and other third-party libraries** available at the time of development.  
 - These assets are **included** in the **playable build repository**, but I do not claim ownership of them.  
 - All **level design, layout, integration, and implementation** work showcased in this project was carried out by me as part of my **Game Development (Level 3) coursework**.
-- - Redistribution of raw assets is **not permitted**; only the compiled build is shared publicly.
+- Redistribution of raw assets is **not permitted**; only the compiled build is shared publicly.
 
