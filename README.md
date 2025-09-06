@@ -15,7 +15,7 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 ----
 
 ## Gained Skills
-- **Blender**: Utilised *Image as Planes* to impliment the storefronts.
+- **Blender**: Utilised *Image as Planes* to implement the storefronts.
 - **Unity**: Built the environment using prefabs, colliders, post-processing effects, lighting and a skybox.
 - **Level Design**: Conducted research and applied my knowledge, considering cover, elevation changes and sightlines for balanced and entertaining gameplay.
 - **Lighting and Atmosphere**: Experimented with baked, mixed and real-time lighting, alongside fog and environmental effects.
@@ -31,7 +31,7 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 ![Café](Media/Cafe.png)
 *Close-up of the Café and nearby structures.*
 ![Cover & Elevation](Media/Elevation&Cover.png)
-*Example of elvation, cover and sightlines within the map.*
+*Example of elevation, cover and sightlines within the map.*
 ![Shops](Media/Street%20Shops.png)
 *Close-up of different storefronts.*
 
@@ -55,4 +55,3 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 
 ## Reflection 
 This was my first larger-scaled 3D FPS environment project in *Unity*. Working on this project gave me valuable practical insight into how crucial *gameplay mechanics*, *player audience* and *atmosphere* are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using *Unity* and *Blender*, whilst also reinforcing my understanding of how important testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as ***The Departed***. 
-
