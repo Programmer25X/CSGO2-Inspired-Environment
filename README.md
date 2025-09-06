@@ -53,7 +53,7 @@ This repository contains a **video demonstration** and a **playable build** of t
 - All **level design, layout, integration, and implementation** work showcased in this project was carried out by me as part of my **Game Development (Level 3) coursework**.
 - Redistribution of raw assets is **not permitted**; only the compiled build is shared publicly.
 
-- ## Attribution Notice
+## Attribution Notice
 Some assets used in this project may be licensed under **Creative Commons Attribution 3.0 (CC BY 3.0)** or **4.0 (CC BY 4.0)**.  
 Original creators retain full credit for their work. All assets are used under the terms of their respective licenses, and I do not claim ownership.  
 If you are the creator of any asset used here and would like me to update or clarify attribution, please contact me.
