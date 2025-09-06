@@ -1,4 +1,4 @@
-# CSGO2 Environment - Game Development (Level 3) Coursework
+# CSGO2 Inspired Environment - Game Development (Level 3) Coursework
 
 ## Overview
 As part of my **Game Development (Level 3) course** I was tasked to create a map for *Counter-Strike 2 (CS:GO 2)* using *Unity*. To design my environment I had to conduct research into the FPS games within the competitive scene to better understand how potential players could make use of weapons, cover and elevation effectively in my map. Creating this map allowed me to develop my understanding of *Unity* and how important lighting, elevation and flow are when designing a level.     
@@ -20,11 +20,6 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 - **Level Design**: Conducted research and applied my knowledge, considering cover, elevation changes and sightlines for balanced and entertaining gameplay.
 - **Lighting and Atmosphere**: Experimented with baked, mixed and real-time lighting, alongside fog and environmental effects.
 - **Testing & Iteration**: Conducted repeated playtesting and gathered player feedback to refine the flow, pacing and balance the map provides.
-
-----
-
-## Reflection 
-This was my first larger-scaled 3D FPS environment project in *Unity*. Working on this project gave me valuable practical insight into how crucial *gameplay mechanics*, *player audience* and *atmosphere* are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using *Unity* and *Blender*, whilst also reinforcing my understanding of how important testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as ***The Departed***. 
 
 ----
 
@@ -57,4 +52,14 @@ This repository contains a **video demonstration** and a **playable build** of t
 - These assets are **included** in the **playable build repository**, but I do not claim ownership of them.  
 - All **level design, layout, integration, and implementation** work showcased in this project was carried out by me as part of my **Game Development (Level 3) coursework**.
 - Redistribution of raw assets is **not permitted**; only the compiled build is shared publicly.
+
+- ## Attribution Notice
+Some assets used in this project may be licensed under **Creative Commons Attribution 3.0 (CC BY 3.0)** or **4.0 (CC BY 4.0)**.  
+Original creators retain full credit for their work. All assets are used under the terms of their respective licenses, and I do not claim ownership.  
+If you are the creator of any asset used here and would like me to update or clarify attribution, please contact me.
+
+----
+
+## Reflection 
+This was my first larger-scaled 3D FPS environment project in *Unity*. Working on this project gave me valuable practical insight into how crucial *gameplay mechanics*, *player audience* and *atmosphere* are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using *Unity* and *Blender*, whilst also reinforcing my understanding of how important testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as ***The Departed***. 
 
