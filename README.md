@@ -45,19 +45,12 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 ----
 
 ## Usage / Disclaimer
-This repository contains a **video demonstration** and a **playable build** of the CS:GO 2 environment I created in *Unity*.  
-
-- This build is provided for **educational and portfolio purposes only**.  
-- Some assets (models, textures, sounds, images) were sourced from **Unity’s free asset packs, Quixel/Fab, and other third-party libraries** available at the time of development.  
-- These assets are **included** in the **playable build repository**, but I do not claim ownership of them.  
-- All **level design, layout, integration, and implementation** work showcased in this project was carried out by me as part of my **Game Development (Level 3) coursework**.
-- Redistribution of raw assets is **not permitted**; only the compiled build is shared publicly.
-
-## Attribution Notice
-Some assets used in this project may be licensed under **Creative Commons Attribution 3.0 (CC BY 3.0)** or **4.0 (CC BY 4.0)**.  
-Original creators retain full credit for their work. All assets are used under the terms of their respective licenses, and I do not claim ownership.  
-If you are the creator of any asset used here and would like me to update or clarify attribution, please contact me.
-
+- This repository contains a **video demonstration** and a **playable build** of the CS:GO 2 environment I created in *Unity*.  
+- Some assets (models, textures, sounds, images) are from third-party sources (Unity Asset Store, Quixel, Fab, etc.) and may be licensed under Creative Commons (CC BY 3.0 / CC BY 4.0) or other free-use licenses.
+- These assets are included only in the compiled build and not redistributed in raw form, respecting the original licenses.
+- Proper credit has been given where known. I do not claim ownership of third-party assets.
+- Redistribution of raw assets is not permitted.
+  
 ----
 
 ## Reflection 
