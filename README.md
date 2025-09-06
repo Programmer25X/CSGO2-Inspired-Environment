@@ -50,7 +50,12 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 - These assets are included only in the compiled build and not redistributed in raw form, respecting the original licenses.
 - Proper credit has been given where known. I do not claim ownership of third-party assets.
 - Redistribution of raw assets is not permitted.
-  
+
+## Attribution Notice
+Some assets used in this project may be licensed under **Creative Commons Attribution 3.0 (CC BY 3.0)** or **4.0 (CC BY 4.0)**.  
+Original creators retain full credit for their work. All assets are used under the terms of their respective licenses, and I do not claim ownership.  
+If you are the creator of any asset used here and would like me to update or clarify attribution, please contact me.
+
 ----
 
 ## Reflection 
