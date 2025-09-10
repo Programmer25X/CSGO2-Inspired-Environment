@@ -92,7 +92,7 @@ If you are the creator of any asset used here and would like me to update or cla
 - [**Cracked Concrete Wall**](https://polyhaven.com/a/cracked_concrete_wall) — By **Dimitrios Savva** & **Rico Cilliers**, licensed under [**CC0**](https://polyhaven.com/license)
 - [**Rusty Metal 02**](https://polyhaven.com/a/rusty_metal_02) — By **Rob Tuytel**, licensed under [**CC0**](https://polyhaven.com/license)
 - [**Rust Coarse 01**](https://polyhaven.com/a/rust_coarse_01) — By **Dimitrios Savva** & **Rico Cilliers**, licensed under [**CC0**](https://polyhaven.com/license)
-- [** Weathered Brown Planks**](https://polyhaven.com/a/weathered_brown_planks) — By **Dimitrios Savva** & **Rico Cilliers**, licensed under [**CC0**](https://polyhaven.com/license)
+- [**Weathered Brown Planks**](https://polyhaven.com/a/weathered_brown_planks) — By **Dimitrios Savva** & **Rico Cilliers**, licensed under [**CC0**](https://polyhaven.com/license)
 - [**Buildings - Batch of 21 Seamless Textures with normalmaps**](https://opengameart.org/content/buildings-batch-of-21-seamless-textures-with-normalmaps), licensed under [**CC BY 3.0**](https://creativecommons.org/licenses/by/3.0/)
 
 ----
