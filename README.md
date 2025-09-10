@@ -84,6 +84,17 @@ If you are the creator of any asset used here and would like me to update or cla
 - [**Low Poly Truck**](https://sketchfab.com/3d-models/low-poly-truck-d61a2ac0a706462ebf82459907f21573) — By **FS 3D Studio**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Concrete Block**](https://sketchfab.com/3d-models/concrete-block-11a24dbe3be24f299519387f5fffd62e) — By **ThomasE**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Procedural City Generator**](https://probabletrain.itch.io/city-generator) — By **ProbableTrain** *(I used this to create the surrounding buildings outside of the city)*
+
+### Textures & HDRIs
+- [**Concrete Pavement 02**](https://polyhaven.com/a/concrete_pavement_02) — By **Charlotte Baglioni**, licensed under [**CC0**](https://polyhaven.com/license)
+- [**Skybox Series Free**](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633) — By **Avionx**
+- [**Kloofendal 48d Partly Cloudy (Pure Sky)**](https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky) — By **Greg Zaal** & **Jarod Guest**, licensed under [**CC0**](https://polyhaven.com/license)
+- [**Cracked Concrete Wall**](https://polyhaven.com/a/cracked_concrete_wall) — By **Dimitrios Savva** & **Rico Cilliers**, licensed under [**CC0**](https://polyhaven.com/license)
+- [**Rusty Metal 02**](https://polyhaven.com/a/rusty_metal_02) — By **Rob Tuytel**, licensed under [**CC0**](https://polyhaven.com/license)
+- [**Rust Coarse 01**](https://polyhaven.com/a/rust_coarse_01) — By **Dimitrios Savva** & **Rico Cilliers**, licensed under [**CC0**](https://polyhaven.com/license)
+- [** Weathered Brown Planks**](https://polyhaven.com/a/weathered_brown_planks) — By **Dimitrios Savva** & **Rico Cilliers**, licensed under [**CC0**](https://polyhaven.com/license)
+- [**Buildings - Batch of 21 Seamless Textures with normalmaps**](https://opengameart.org/content/buildings-batch-of-21-seamless-textures-with-normalmaps), licensed under [**CC BY 3.0**](https://creativecommons.org/licenses/by/3.0/)
+
 ----
 
 ## Reflection 
