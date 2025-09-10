@@ -60,6 +60,7 @@ If you are the creator of any asset used here and would like me to update or cla
 
 ## Used Assets & Creditation
 
+###  3D Models and Environments
 - [**Garbage Bin**](https://sketchfab.com/3d-models/garbage-bin-fba6b5a8afdd4eb0a43be29aabceb3d6) — By **Rob Ortiz**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Basic Street Lamp**](https://sketchfab.com/3d-models/basic-street-lamp-76ac24320c6a419e9a71bc5d7f54fc68) — By **elouisetrewartha**, licensed under [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/)
 - [**Nivelles House 10b Belgium**](https://sketchfab.com/3d-models/nivelles-house-10b-belgium-e837c48da1a24890a2b43123857e1fe6) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
@@ -72,7 +73,17 @@ If you are the creator of any asset used here and would like me to update or cla
 - [**Cork Corner Shop 1 Ireland**](https://sketchfab.com/3d-models/cork-corner-shop-1-ireland-21818eaa4c1c402a82baf9031ebaa93a) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Bordeaux Flat 2 corner France**](https://sketchfab.com/3d-models/bordeaux-flat-2-corner-france-d390f8d7c3064060b03a753ec02c1da1) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Conwy Pharmacy UK**](https://sketchfab.com/3d-models/conwy-pharmacy-uk-303095c86b1741a595cb86a7ae027bea) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
-- 
+- [**Traffic Light**](https://sketchfab.com/3d-models/traffic-light-321e93bc36af4531b350febcfefee621) — By **Lyskilde**, licensed under [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/)
+- [**Toyota Corola**](https://sketchfab.com/3d-models/toyota-corola-aab1b90a73f7416890c31a8927cc5038) — By **danieljorge435**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**2022 Toyota Hilux**](https://sketchfab.com/3d-models/2022-toyota-hilux-82bd37c5065040098fb0b86e07fcb959) — By **BHP3D**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Generic Town Bus**](https://sketchfab.com/3d-models/generic-town-bus-14fe03d792914d51b6c6250b393c44fd) — By **own.guest**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Dumpster**](https://sketchfab.com/3d-models/dumpster-3e37f225ff474567a68c998b47fcde26) — By **wand3rer**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Construction Signs Set**](https://sketchfab.com/3d-models/construction-signs-set-96b3785bb7654f4f8812d23bfaa9830d) — By **Caboose3d**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Fountain Prop**](https://assetstore.unity.com/packages/3d/fountain-prop-75912) — By **Thunderent**
+- [**Old Bench**](https://skfb.ly/6WzQ) — By **Thunder**, licensed under [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/)
+- [**Low Poly Truck**](https://sketchfab.com/3d-models/low-poly-truck-d61a2ac0a706462ebf82459907f21573) — By **FS 3D Studio**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Concrete Block**](https://sketchfab.com/3d-models/concrete-block-11a24dbe3be24f299519387f5fffd62e) — By **ThomasE**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Procedural City Generator**](https://probabletrain.itch.io/city-generator) — By **ProbableTrain** *(I used this to create the surrounding buildings outside of the city)*
 ----
 
 ## Reflection 
