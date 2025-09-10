@@ -66,6 +66,12 @@ If you are the creator of any asset used here and would like me to update or cla
 - [**Tree For Games**](https://sketchfab.com/3d-models/tree-for-games-f91d3c3c527d47fdb217c291e4c7df4b) — By **Daniel Gryningstjerna**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Nivelles Shop 1 Belgium**](https://sketchfab.com/3d-models/nivelles-shop-1-belgium-209c0097e5ab46fd8be7ca5d904479e9) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Nivelles House 2 Belgium**](https://sketchfab.com/3d-models/nivelles-house-2-belgium-65523e6f1e3c46d9930aa727a457cf0f) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**British compact car - Low poly model**](https://skfb.ly/6Vs8M) — By **Daniel Zhabotinsk**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Road System**](https://assetstore.unity.com/packages/tools/level-design/road-system-192818#description) — By **Maxi Barmetler**
+- [**Corner cafe**](https://sketchfab.com/3d-models/corner-cafe-6dfed585fefe45099901b0a8d61b9879) — By **patrakeevasveta**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Cork Corner Shop 1 Ireland**](https://sketchfab.com/3d-models/cork-corner-shop-1-ireland-21818eaa4c1c402a82baf9031ebaa93a) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Bordeaux Flat 2 corner France**](https://sketchfab.com/3d-models/bordeaux-flat-2-corner-france-d390f8d7c3064060b03a753ec02c1da1) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Conwy Pharmacy UK**](https://sketchfab.com/3d-models/conwy-pharmacy-uk-303095c86b1741a595cb86a7ae027bea) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - 
 ----
 
