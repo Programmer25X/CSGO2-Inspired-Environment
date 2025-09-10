@@ -58,5 +58,16 @@ If you are the creator of any asset used here and would like me to update or cla
 
 ----
 
+## Used Assets & Creditation
+
+- [**Garbage Bin**](https://sketchfab.com/3d-models/garbage-bin-fba6b5a8afdd4eb0a43be29aabceb3d6) — By **Rob Ortiz**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Basic Street Lamp**](https://sketchfab.com/3d-models/basic-street-lamp-76ac24320c6a419e9a71bc5d7f54fc68) — By **elouisetrewartha**, licensed under [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/)
+- [**Nivelles House 10b Belgium**](https://sketchfab.com/3d-models/nivelles-house-10b-belgium-e837c48da1a24890a2b43123857e1fe6) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Tree For Games**](https://sketchfab.com/3d-models/tree-for-games-f91d3c3c527d47fdb217c291e4c7df4b) — By **Daniel Gryningstjerna**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Nivelles Shop 1 Belgium**](https://sketchfab.com/3d-models/nivelles-shop-1-belgium-209c0097e5ab46fd8be7ca5d904479e9) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Nivelles House 2 Belgium**](https://sketchfab.com/3d-models/nivelles-house-2-belgium-65523e6f1e3c46d9930aa727a457cf0f) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- 
+----
+
 ## Reflection 
 This was my first larger-scaled 3D FPS environment project in *Unity*. Working on this project gave me valuable practical insight into how crucial *gameplay mechanics*, *player audience* and *atmosphere* are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using *Unity* and *Blender*, whilst also reinforcing my understanding of how important testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as ***The Departed***. 
