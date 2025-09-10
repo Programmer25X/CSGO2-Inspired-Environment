@@ -101,8 +101,12 @@ If you are the creator of any asset used here and would like me to update or cla
 - [**Rusle of leaves 2**](https://freesound.org/people/Magnesus/sounds/729440/) — By **Magnesus**, licensed under [**CC0 1.0**](https://creativecommons.org/publicdomain/zero/1.0/)
 - [**bushmovement**](https://pixabay.com/sound-effects/bushmovement-6986/) — By **j1987 (Freesound)**, licensed under [**Pixabay Content License**](https://pixabay.com/service/license-summary/)
 
-
-
+### Images
+- [**Sweet Shop Front**](https://i0.wp.com/www.ellieandco.co.uk/wp-content/uploads/2018/11/brighton-lost-shopfronts-1-2.jpg?fit=900%2C634&ssl=1)
+- [**GAME store closed.jpg**](https://commons.wikimedia.org/wiki/File:GAME_store_closed.jpg) — By **Smurfy**, licensed under [**CC0 1.0**](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- [**Old fashioned shop front in Main Street - geograph.org.uk - 1156700.jpg**](https://commons.wikimedia.org/wiki/File:Old_fashioned_shop_front_in_Main_Street_-_geograph.org.uk_-_1156700.jpg) — By **ceridwen**, licensed under [**CC BY-SA 2.0**](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+- [**Starbucks-Coffee-Osu.jpg**](https://commons.wikimedia.org/wiki/File:Starbucks-Coffee-Osu.jpg) — By **HQA02330**, licensed under [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+- [**Wild Things Shop Front**](https://www.pexels.com/photo/exterior-of-local-shop-in-city-in-daytime-6016926/) — By **Erik Mclean**, licensed under [**Pexels License**](https://www.pexels.com/license/)
 ----
 
 ## Reflection 
