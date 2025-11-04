@@ -1,9 +1,7 @@
-# CSGO2-Inspired Environment - Game Development (Level 3) Coursework
+# CSGO2-Inspired Environment
 
 ## Overview
 As part of my **Game Development (Level 3) course** I was tasked to create a map for *Counter-Strike 2 (CS:GO 2)* using *Unity*. To design my environment I had to conduct research into the FPS games within the competitive scene to better understand how potential players could make use of weapons, cover and elevation effectively in my map. Creating this map allowed me to develop my understanding of *Unity* and how important lighting, elevation and flow are when designing a level.     
-
----- 
 
 ## Features
 - A 3D city environment tailored for the FPS genre, which the player can explore.
@@ -12,7 +10,6 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 - Post-processing effects to create the player's field-of-vision (FOV).
 - Sound effects to reinforce the atmosphere and realism.
 
-----
 
 ## Gained Skills
 - **Blender**: Utilised *Image as Planes* to implement the storefronts.
@@ -21,7 +18,6 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 - **Lighting and Atmosphere**: Experimented with baked, mixed and real-time lighting, alongside fog and environmental effects.
 - **Testing & Iteration**: Conducted repeated playtesting and gathered player feedback to refine the flow, pacing and balance the map provides.
 
-----
 
 ## Media 
 
@@ -42,21 +38,6 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 - [Download build from GitHub Releases](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/v1.0.0)
 - [Download on itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
 
-----
-
-## Usage / Disclaimer
-- This repository contains a **video demonstration** and a **playable build** of the CS:GO 2 environment I created in *Unity*.  
-- Some assets (models, textures, sounds, images) are from third-party sources (Unity Asset Store, Quixel, Fab, etc.) and may be licensed under Creative Commons (CC BY 3.0 / CC BY 4.0) or other free-use licenses.
-- These assets are included only in the compiled build and not redistributed in raw form, respecting the original licenses.
-- Proper credit has been given where known. I do not claim ownership of third-party assets.
-- Redistribution of raw assets is not permitted.
-
-## Attribution Notice
-Some assets used in this project may be licensed under **Creative Commons Attribution 3.0 (CC BY 3.0)** or **4.0 (CC BY 4.0)**.  
-Original creators retain full credit for their work. All assets are used under the terms of their respective licenses, and I do not claim ownership.  
-If you are the creator of any asset used here and would like me to update or clarify attribution, please contact me.
-
-----
 
 ## Used Assets & Creditation
 
@@ -107,7 +88,6 @@ If you are the creator of any asset used here and would like me to update or cla
 - [**Old fashioned shop front in Main Street - geograph.org.uk - 1156700.jpg**](https://commons.wikimedia.org/wiki/File:Old_fashioned_shop_front_in_Main_Street_-_geograph.org.uk_-_1156700.jpg) — By **ceridwen**, licensed under [**CC BY-SA 2.0**](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
 - [**Starbucks-Coffee-Osu.jpg**](https://commons.wikimedia.org/wiki/File:Starbucks-Coffee-Osu.jpg) — By **HQA02330**, licensed under [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 - [**Wild Things Shop Front**](https://www.pexels.com/photo/exterior-of-local-shop-in-city-in-daytime-6016926/) — By **Erik Mclean**, licensed under [**Pexels License**](https://www.pexels.com/license/)
-----
 
 ## Reflection 
 This was my first larger-scaled 3D FPS environment project in *Unity*. Working on this project gave me valuable practical insight into how crucial *gameplay mechanics*, *player audience* and *atmosphere* are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using *Unity* and *Blender*, whilst also reinforcing my understanding of how important testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as ***The Departed***. 
