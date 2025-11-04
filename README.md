@@ -4,19 +4,15 @@
 As part of my **Game Development (Level 3) course** I was tasked to create a map for *Counter-Strike 2 (CS:GO 2)* using *Unity*. To design my environment I had to conduct research into the FPS games within the competitive scene to better understand how potential players could make use of weapons, cover and elevation effectively in my map. Creating this map allowed me to develop my understanding of *Unity* and how important lighting, elevation and flow are when designing a level.     
 
 ## Features
-- A 3D city environment tailored for the FPS genre, which the player can explore.
-- Use of textures, assets and materials to convey a sense of realism.
+- A 3D city environment designed for the FPS genre, which the player can explore.
 - Lighting and a skybox to further enhance immersion and visibility.
 - Post-processing effects to create the player's field-of-vision (FOV).
 - Sound effects to reinforce the atmosphere and realism.
 
 
-## Gained Skills
+## Tools
 - **Blender**: Utilised *Image as Planes* to implement the storefronts.
-- **Unity**: Built the environment using prefabs, colliders, post-processing effects, lighting and a skybox.
-- **Level Design**: Conducted research and applied my knowledge, considering cover, elevation changes and sightlines for balanced and entertaining gameplay.
-- **Lighting and Atmosphere**: Experimented with baked, mixed and real-time lighting, alongside fog and environmental effects.
-- **Testing & Iteration**: Conducted repeated playtesting and gathered player feedback to refine the flow, pacing and balance the map provides.
+- **Unity**: Built the environment using prefabs, colliders, post-processing effects, lighting and a skybox..
 
 
 ## Media 
