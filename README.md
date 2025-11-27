@@ -1,18 +1,17 @@
 # CSGO2-Inspired Environment
 
 ## Overview
-As part of my **Game Development (Level 3) course** I was tasked to create a map for *Counter-Strike 2 (CS:GO 2)* using *Unity*. To design my environment I had to conduct research into the FPS games within the competitive scene to better understand how potential players could make use of weapons, cover and elevation effectively in my map. Creating this map allowed me to develop my understanding of *Unity* and how important lighting, elevation and flow are when designing a level.     
+During my game development studies, I was tasked to create a map for Counter-Strike 2 (CS:GO 2) using Unity. To design my environment and create my environment, I conducted research about first-person shooter (FPS) games within the competitive scene to better understand how potential players could make use of weapons, cover and elevation. Creating this map allowed me to develop my understanding of the Unity game engine and the importance of lighting, elevation and flow.
 
 ## Features
-- A 3D city environment designed for the FPS genre, which the player can explore.
-- Lighting and a skybox to further enhance immersion and visibility.
-- Post-processing effects to create the player's field-of-vision (FOV).
-- Sound effects to reinforce the atmosphere and realism.
+- A 3D city environment designed an FPS game, which the player can explore
+- Post-processing effects to create the player’s field-of-vision (FOV)
+- Lighting, sound effects and a skybox to enhance immersion and realism
 
 
 ## Tools
 - **Blender**: Utilised *Image as Planes* to implement the storefronts.
-- **Unity**: Built the environment using prefabs, colliders, post-processing effects, lighting and a skybox..
+- **Unity**: Built the environment using ProBuilder, prefabs, colliders, post-processing effects, lighting and a skybox.
 
 
 ## Media 
@@ -35,7 +34,9 @@ As part of my **Game Development (Level 3) course** I was tasked to create a map
 - [Download on itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
 
 
-## Used Assets & Creditation
+## Used Assets & Credits
+
+Disclaimer: The 3D environment was developed for educational and portfolio purposes only. To my knowledge, the assets used and their creators have been listed, with credit being given to the creators for their work. If there are any issues or amendments that need to be made, please contact me.
 
 ###  3D Models and Environments
 - [**Garbage Bin**](https://sketchfab.com/3d-models/garbage-bin-fba6b5a8afdd4eb0a43be29aabceb3d6) — By **Rob Ortiz**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
