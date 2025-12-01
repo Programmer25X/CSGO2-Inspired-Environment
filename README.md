@@ -10,8 +10,8 @@ During my game development studies, I was tasked to create a map for Counter-Str
 
 
 ## Tools
-- **Blender**: Utilised Image as Planes to implement the storefronts.
-- **Unity**: Built the environment using ProBuilder, prefabs, colliders, post-processing effects, lighting and a skybox.
+- **Blender**: Utilised Image as Planes to implement the storefronts
+- **Unity**: Built the environment using ProBuilder, prefabs, colliders, post-processing effects, lighting and a skybox
 
 
 ## Media 
@@ -31,11 +31,11 @@ During my game development studies, I was tasked to create a map for Counter-Str
 [Download on itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
 
 ## Reflection 
-Working on this project gave me valuable practical insight into how crucial gameplay mechanics, player audience, elevation, flow and atmosphere are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using Unity and Blender. Additionall, I was also able to reinforce my understanding of how important planning, testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as [The Departed](https://github.com/Programmer25X/The-Departed). 
+Working on this project gave me valuable practical insight into how crucial gameplay mechanics, player audience, elevation, flow and atmosphere are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using Unity and Blender. Additionally, I was also able to reinforce my understanding of how important planning, testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as [The Departed](https://github.com/Programmer25X/The-Departed). 
 
 ## Used Assets & Credits
 
-**Disclaimer**: The 3D environment was developed for educational and portfolio purposes only. To my knowledge, the assets used and their creators have been listed, with credit being given to the creators for their work. I do not claim any ownership of the assets used. If there are any issues or amendments that need to be made, please contact me.
+**Disclaimer**: The 3D environment was developed for educational and portfolio purposes only. To my knowledge, the assets used and their creators have been listed, with credit being given to the creators for their work. I **do not** claim any ownership of the assets used. If there are any issues or amendments that need to be made, please contact me.
 
 ###  3D Models and Environments
 - [**Garbage Bin**](https://sketchfab.com/3d-models/garbage-bin-fba6b5a8afdd4eb0a43be29aabceb3d6) — By **Rob Ortiz**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
