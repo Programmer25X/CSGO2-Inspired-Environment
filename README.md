@@ -36,7 +36,7 @@ During my game development studies, I was tasked to create a map for Counter-Str
 
 ## Used Assets & Credits
 
-Disclaimer: The 3D environment was developed for educational and portfolio purposes only. To my knowledge, the assets used and their creators have been listed, with credit being given to the creators for their work. If there are any issues or amendments that need to be made, please contact me.
+**Disclaimer**: The 3D environment was developed for educational and portfolio purposes only. To my knowledge, the assets used and their creators have been listed, with credit being given to the creators for their work. I do not claim any ownership of the assets used. If there are any issues or amendments that need to be made, please contact me.
 
 ###  3D Models and Environments
 - [**Garbage Bin**](https://sketchfab.com/3d-models/garbage-bin-fba6b5a8afdd4eb0a43be29aabceb3d6) — By **Rob Ortiz**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
@@ -87,4 +87,4 @@ Disclaimer: The 3D environment was developed for educational and portfolio purpo
 - [**Wild Things Shop Front**](https://www.pexels.com/photo/exterior-of-local-shop-in-city-in-daytime-6016926/) — By **Erik Mclean**, licensed under [**Pexels License**](https://www.pexels.com/license/)
 
 ## Reflection 
-This was my first larger-scaled 3D FPS environment project in *Unity*. Working on this project gave me valuable practical insight into how crucial *gameplay mechanics*, *player audience* and *atmosphere* are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using *Unity* and *Blender*, whilst also reinforcing my understanding of how important testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as ***The Departed***. 
+This was my first larger-scaled 3D FPS environment project in Unity. Working on this project gave me valuable practical insight into how crucial gameplay mechanics, player audience, elevation, flow and atmosphere are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using Unity and Blender. Additionall, I was also able to reinforce my understanding of how important planning, testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as [The Departed](https://github.com/Programmer25X/The-Departed). 
