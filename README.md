@@ -35,7 +35,7 @@ Working on this project gave me valuable practical insight into how crucial game
 
 ## Used Assets & Credits
 
-**Disclaimer**: The 3D environment was developed for **educational and portfolio purposes only**. To my knowledge, all third-party assets used and their creators have been listed, with credit being given to the creators for their work. I **do not** claim any ownership of any third-party assets used. If there are any issues regarding the use of these assets or the credits, please contact me.
+**Disclaimer**: The 3D environment was developed for **educational and portfolio purposes only**. To my knowledge, all third-party assets used and their creators have been listed, with appropriate credit being given to the creators for their work. I **do not** claim any ownership of any third-party assets used. If there are any issues regarding the use of these assets or the credits, please contact me.
 
 ###  3D Models and Environments
 - [**Garbage Bin**](https://sketchfab.com/3d-models/garbage-bin-fba6b5a8afdd4eb0a43be29aabceb3d6) — By **Rob Ortiz**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
