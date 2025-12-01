@@ -46,7 +46,7 @@ Working on this project gave me valuable practical insight into how crucial game
 - [**Nivelles House 2 Belgium**](https://sketchfab.com/3d-models/nivelles-house-2-belgium-65523e6f1e3c46d9930aa727a457cf0f) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**British compact car - Low poly model**](https://skfb.ly/6Vs8M) — By **Daniel Zhabotinsk**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Road System**](https://assetstore.unity.com/packages/tools/level-design/road-system-192818#description) — By **Maxi Barmetler**
-- [**Corner cafe**](https://sketchfab.com/3d-models/corner-cafe-6dfed585fefe45099901b0a8d61b9879) — By **patrakeevasveta**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Corner cafe**](https://sketchfab.com/3d-models/corner-cafe-6dfed585fefe45099901b0a8d61b9879) — By **patrakeevasveta**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/) (In the scene, I added a wall at the back of the café.)​
 - [**Cork Corner Shop 1 Ireland**](https://sketchfab.com/3d-models/cork-corner-shop-1-ireland-21818eaa4c1c402a82baf9031ebaa93a) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Bordeaux Flat 2 corner France**](https://sketchfab.com/3d-models/bordeaux-flat-2-corner-france-d390f8d7c3064060b03a753ec02c1da1) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Conwy Pharmacy UK**](https://sketchfab.com/3d-models/conwy-pharmacy-uk-303095c86b1741a595cb86a7ae027bea) — By **Lost Gecko**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
