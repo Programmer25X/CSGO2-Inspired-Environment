@@ -60,7 +60,7 @@ Working on this project gave me valuable practical insight into how crucial game
 - [**Old Bench**](https://skfb.ly/6WzQ) — By **Thunder**, licensed under [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/)
 - [**Low Poly Truck**](https://sketchfab.com/3d-models/low-poly-truck-d61a2ac0a706462ebf82459907f21573) — By **FS 3D Studio**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Concrete Block**](https://sketchfab.com/3d-models/concrete-block-11a24dbe3be24f299519387f5fffd62e) — By **ThomasE**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
-- [**Procedural City Generator**](https://probabletrain.itch.io/city-generator) — By **ProbableTrain** *(I used this to create the surrounding buildings outside of the city)*
+- [**Procedural City Generator**](https://probabletrain.itch.io/city-generator) — By **ProbableTrain** *(I used this to create the surrounding buildings outside of the city.)*
 
 ### Textures & HDRIs
 - [**Concrete Pavement 02**](https://polyhaven.com/a/concrete_pavement_02) — By **Charlotte Baglioni**, licensed under [**CC0**](https://polyhaven.com/license)
