@@ -31,7 +31,7 @@ During my game development studies, I was tasked to create a map for Counter-Str
 
 ### Playable Build
 - [Download build from GitHub Releases](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/v1.0.0)
-- [Download on itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
+- [Download build from itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
 
 
 ## Used Assets & Credits
