@@ -10,7 +10,7 @@ During my game development studies, I was tasked to create a map for Counter-Str
 
 
 ## Tools
-- **Blender**: Utilised *Image as Planes* to implement the storefronts.
+- **Blender**: Utilised Image as Planes to implement the storefronts.
 - **Unity**: Built the environment using ProBuilder, prefabs, colliders, post-processing effects, lighting and a skybox.
 
 
