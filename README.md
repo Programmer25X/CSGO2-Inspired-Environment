@@ -26,10 +26,8 @@ During my game development studies, I was tasked to create a map for Counter-Str
 ![Shops](Media/Street%20Shops.png)
 *Close-up of different storefronts.*
 
-### Demo Video
-- [Watch the Demo](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/Video)
+[Watch the Demo](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/Video)
 
-### Playable Build
 [Download on itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
 
 ## Reflection 
