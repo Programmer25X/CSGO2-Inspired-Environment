@@ -33,6 +33,8 @@ During my game development studies, I was tasked to create a map for Counter-Str
 - [Download build from GitHub Releases](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/v1.0.0)
 - [Download build from itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
 
+## Reflection 
+This was my first larger-scaled 3D FPS environment project in Unity. Working on this project gave me valuable practical insight into how crucial gameplay mechanics, player audience, elevation, flow and atmosphere are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using Unity and Blender. Additionall, I was also able to reinforce my understanding of how important planning, testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as [The Departed](https://github.com/Programmer25X/The-Departed). 
 
 ## Used Assets & Credits
 
@@ -86,5 +88,3 @@ During my game development studies, I was tasked to create a map for Counter-Str
 - [**Starbucks-Coffee-Osu.jpg**](https://commons.wikimedia.org/wiki/File:Starbucks-Coffee-Osu.jpg) — By **HQA02330**, licensed under [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 - [**Wild Things Shop Front**](https://www.pexels.com/photo/exterior-of-local-shop-in-city-in-daytime-6016926/) — By **Erik Mclean**, licensed under [**Pexels License**](https://www.pexels.com/license/)
 
-## Reflection 
-This was my first larger-scaled 3D FPS environment project in Unity. Working on this project gave me valuable practical insight into how crucial gameplay mechanics, player audience, elevation, flow and atmosphere are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using Unity and Blender. Additionall, I was also able to reinforce my understanding of how important planning, testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as [The Departed](https://github.com/Programmer25X/The-Departed). 
