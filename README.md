@@ -30,8 +30,7 @@ During my game development studies, I was tasked to create a map for Counter-Str
 - [Watch the Demo](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/Video)
 
 ### Playable Build
-- [Download build from GitHub Releases](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/v1.0.0)
-- [Download build from itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
+<center><iframe frameborder="0" src="https://itch.io/embed/3861623?bg_color=212020&amp;fg_color=fff&amp;link_color=5bfa7c&amp;border_color=5bfa7c" width="552" height="167"><a href="https://programmer025x.itch.io/csgo2-coursework-environment">CS:GO2 Inspired Environment by Programmer25X</a></iframe></center>
 
 ## Reflection 
 This was my first larger-scaled 3D FPS environment project in Unity. Working on this project gave me valuable practical insight into how crucial gameplay mechanics, player audience, elevation, flow and atmosphere are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using Unity and Blender. Additionall, I was also able to reinforce my understanding of how important planning, testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as [The Departed](https://github.com/Programmer25X/The-Departed). 
