@@ -33,7 +33,7 @@ During my game development studies, I was tasked to create a map for Counter-Str
 
 [Watch the Demo](https://github.com/Programmer25X/CSGO2-Environment/releases/tag/Video)
 
-[Download on itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
+[View on itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
 
 ## Reflection 
 Working on this project gave me valuable practical insight into how crucial gameplay mechanics, player audience, elevation, flow and atmosphere are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using Unity and Blender. Additionally, I was also able to reinforce my understanding of how important planning, testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as [The Departed](https://github.com/Programmer25X/The-Departed). 
