@@ -9,7 +9,7 @@
 During my game development studies, I was tasked to create a map for Counter-Strike 2 (CS:GO 2) using Unity. To design and create the environment, I conducted research about first-person shooter (FPS) games to better understand how potential players could make use of weapons, cover and elevation. Creating this map allowed me to develop my understanding of the Unity game engine and the importance of lighting, elevation and flow.
 
 ## Features
-- A 3D city environment designed an FPS game, which the player can explore
+- A 3D city environment designed for an FPS game, which the player can explore
 - Post-processing effects to create the player’s field-of-vision (FOV)
 - Lighting, sound effects and a skybox to enhance immersion and realism
 
@@ -36,7 +36,7 @@ During my game development studies, I was tasked to create a map for Counter-Str
 [View on itch.io](https://programmer025x.itch.io/csgo2-coursework-environment)
 
 ## Reflection 
-Working on this project gave me valuable practical insight into how crucial gameplay mechanics, player audience, elevation, flow and atmosphere are when designing and creating a level. Furthermore, when designing and creating the environment I built more confidence in using Unity and Blender. Additionally, I was also able to reinforce my understanding of how important planning, testing and iteration are when designing a product. I have since used these skills to work on other projects, some of which are more complex, such as [The Departed](https://github.com/Programmer25X/The-Departed). 
+Working on this project gave me valuable insight into how important gameplay mechanics, player audience, elevation, flow and atmosphere are when designing and creating a level. Furthermore, when designing and creating the environment, I built more confidence in using Unity and Blender. Additionally, I was also able to reinforce my understanding of how important planning, testing and iteration are, and I have since used these skills to work on other projects, including [The Departed](https://github.com/Programmer25X/The-Departed). 
 
 ## Used Assets & Credits
 
