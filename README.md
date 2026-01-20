@@ -6,7 +6,7 @@
 </picture>
 
 ## Overview
-During my game development studies, I was tasked to create a map for Counter-Strike 2 (CS:GO 2) using Unity. To design my environment and create my environment, I conducted research about first-person shooter (FPS) games within the competitive scene to better understand how potential players could make use of weapons, cover and elevation. Creating this map allowed me to develop my understanding of the Unity game engine and the importance of lighting, elevation and flow.
+During my game development studies, I was tasked to create a map for Counter-Strike 2 (CS:GO 2) using Unity. To design and create the environment, I conducted research about first-person shooter (FPS) games to better understand how potential players could make use of weapons, cover and elevation. Creating this map allowed me to develop my understanding of the Unity game engine and the importance of lighting, elevation and flow.
 
 ## Features
 - A 3D city environment designed an FPS game, which the player can explore
